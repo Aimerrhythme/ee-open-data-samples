@@ -4,3 +4,4 @@
 |------|------|------|------|
 | 2026-10-27 | `load-daily` | 典型日负荷曲线（居民/商业/工业） | `datasets/load-daily/` |
 | 2026-10-28 | `pv-daily` | 光伏日出力曲线（晴/多云/阴） | `datasets/pv-daily/` |
+| 2026-11-04 | `wind-speed` | 风速序列 + Weibull 拟合 | `datasets/wind-speed/` |
